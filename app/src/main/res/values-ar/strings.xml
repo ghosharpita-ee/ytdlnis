@@ -102,7 +102,7 @@
     <string name="preferred_download_type">نوع التنزيل المفضل</string>
     <string name="file_size">حجم الملف</string>
     <string name="clear_temporary_files">النقر لمسح الملفات المؤقتة</string>
-    <string name="clear_temporary_files_summary">مسح الملفات المؤقتة من التنزيلات المتعطلة/الملغاة</string>
+    <string name="clear_temporary_files_summary">احذف الملفات المخزنة مؤقتاً، وملفات infojsons، والإعدادات المؤقتة الأخرى</string>
     <string name="cache_cleared">تم مسح الملفات المؤقتة</string>
     <string name="freespace">التخزين المتاح</string>
     <string name="link_you_copied">الرابط الذي نسخته</string>
@@ -256,7 +256,7 @@
     <string name="socks5_proxy_summary">استخدام وكيل HTTP/HTTPS/SOCKS المحدد</string>
     <string name="socks5_proxy">رابط بروكسي SOCKS5</string>
     <string name="move_temporary_files">نقل الملفات المؤقتة</string>
-    <string name="move_temporary_files_summary">نقل الملفات المؤقتة إلى مجلد التنزيلات</string>
+    <string name="move_temporary_files_summary">انقل ملفات التنزيل المؤقتة إلى مجلد التنزيلات</string>
     <string name="search_suggestions">اقتراحات البحث</string>
     <string name="search_suggestions_summary">الحصول على اقتراحات بحث من جوجل</string>
     <string name="misc">متنوع</string>
@@ -508,4 +508,8 @@
     <string name="show_quick_download_share_menu">أظهِر خيار التنزيل الفوري في قائمة المشاركة</string>
     <string name="quick_download_title">لا تجلب البيانات</string>
     <string name="sponsorblock_hook">ترحيبات/خطاف</string>
+    <string name="packages">حزمات</string>
+    <string name="not_installed">غير مثبتة</string>
+    <string name="bundled">مضمنة</string>
+    <string name="use_app_language_for_metadata_summary">في حال التفعيل، ستتبع حقول البيانات الوصفية لغة تطبيقك، بل وسيمتد أثر ذلك إلى اختيار التنسيق عبر تفضيل النسخ المدبلجة على النسخ الأصلية</string>
 </resources>
