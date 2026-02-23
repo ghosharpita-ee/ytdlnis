@@ -247,7 +247,7 @@
     <string name="use_extra_commands_summary">להורדות שמע / וידאו. אפשר להוסיף פקודות נוספות יחד עם תצורת ממשק המשתמש</string>
     <string name="monochrome">מונוכרום</string>
     <string name="format_id">מזהה פורמט</string>
-    <string name="move_temporary_files_summary">העבר קבצים בקובץ שמור לתיקיית ההורדות</string>
+    <string name="move_temporary_files_summary">העברת קובצי הורדות שנשמרו לתיקיית ההורדות</string>
     <string name="subtitle_languages">שפת כתוביות</string>
     <string name="help_translate">עזרה בתרגום</string>
     <string name="sort_by">מיון</string>
