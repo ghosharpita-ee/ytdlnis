@@ -161,7 +161,7 @@
     <string name="items_imported">İdxal edilən elementlər</string>
     <string name="help_translate">Tərcümə etməyə kömək et</string>
     <string name="file_size">Fayl həcmi</string>
-    <string name="clear_temporary_files_summary">Çökən/xəta olan/ləğv edilən yükləmələrdən toplanmış faylları sil</string>
+    <string name="clear_temporary_files_summary">Keşkələnən faylları, infojson-ları və digər müvəqqəti qurulmaları sil</string>
     <string name="cache_cleared">Müvəqqəti fayllar təmizləndi</string>
     <string name="clear_temporary_files">Müvəqqəti faylları təmizlə</string>
     <string name="download_rescheduled_to">Yükləmə bu vaxta planlaşdırıldı:</string>
@@ -265,7 +265,7 @@
     <string name="crop_thumb_summary">Səs yükləmələr üçün miniatürü kvadrat şəklində kəs</string>
     <string name="audio_only_item">Bu element yalnız səs formatları ehtiva edir</string>
     <string name="move_temporary_files">Müvəqqəti faylları köçür</string>
-    <string name="move_temporary_files_summary">Toplanan faylları yükləmələr qovluğuna köçür</string>
+    <string name="move_temporary_files_summary">Keşkələnən yükləmə fayllarını yükləmələr qovluğuna köçür</string>
     <string name="custom_audio_quality">Fərdi səs keyfiyyəti işlət</string>
     <string name="retries">Təkrar cəhdlər</string>
     <string name="fragment_retries">Fraqment təkrar cəhdləri</string>
@@ -508,4 +508,8 @@
     <string name="show_quick_download_share_menu">Paylaş menyusunda dərhal yükləmək üçün seçim göstər</string>
     <string name="quick_download_title">Məlumatları almayın</string>
     <string name="sponsorblock_hook">Qarşılıqlı əlaqə/Salamlaşma</string>
+    <string name="packages">Paketlər</string>
+    <string name="not_installed">Quraşdırılmadı</string>
+    <string name="bundled">Paketlənib</string>
+    <string name="use_app_language_for_metadata_summary">Aktivləşdirildikdə, üst məlumat sahələri tətbiq dilinizə əməl edəcək və hətta əsil əvəzinə dublyaj olunan versiyalara üstünlük verərək format seçiminə təsir edəcək</string>
 </resources>

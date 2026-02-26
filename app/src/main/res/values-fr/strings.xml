@@ -191,7 +191,7 @@
     <string name="ignore_battery_optimization">Ignorer l’optimisation de la batterie</string>
     <string name="update_formats_summary">Récupérez les formats dès que la carte de téléchargement apparaît</string>
     <string name="about">À propos</string>
-    <string name="clear_temporary_files_summary">Supprimer les fichiers mis en cache des téléchargements bloqués / échoués / annulés</string>
+    <string name="clear_temporary_files_summary">Supprimer les fichiers mis en cache, les fichiers infojson et autres configurations temporaires</string>
     <string name="cache_cleared">Fichiers temporaires supprimés</string>
     <string name="freespace">Espace libre</string>
     <string name="downloads_running_try_later">Le programme de téléchargement est en cours d\'exécution. Réessayez plus tard</string>
@@ -303,7 +303,7 @@
     <string name="ignore">Ignorer</string>
     <string name="use_extra_commands_summary">Pour les téléchargements audio / vidéo. Ajoutez des commandes supplémentaires avec la configuration de l\'interface graphique</string>
     <string name="app">Application</string>
-    <string name="move_temporary_files_summary">Transférer les fichiers mis en cache vers le dossier de téléchargement</string>
+    <string name="move_temporary_files_summary">Transférer les fichiers téléchargés mis en cache vers le dossier Téléchargements</string>
     <string name="swipe_gestures_summary">Faites glisser les éléments pour certaines actions</string>
     <string name="license">Licence</string>
     <string name="download_already_exists_summary">Voulez-vous toujours télécharger ?</string>
@@ -509,4 +509,8 @@
     <string name="show_quick_download_share_menu">Afficher l\'option de téléchargement immédiat dans le menu de partage</string>
     <string name="quick_download_title">Ne pas récupérer de données</string>
     <string name="sponsorblock_hook">Crochet/Salutations</string>
+    <string name="packages">Packages</string>
+    <string name="not_installed">Non installé</string>
+    <string name="bundled">Ensemble</string>
+    <string name="use_app_language_for_metadata_summary">Si cette option est activée, les champs de métadonnées suivront la langue de votre application et affecteront même la sélection du format en privilégiant les versions doublées plutôt que les versions originales</string>
 </resources>

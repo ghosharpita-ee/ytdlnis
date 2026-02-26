@@ -237,7 +237,7 @@
     <string name="metered_network_download_start_info">O download começará assim que você estiver conectado a uma rede Wi-Fi</string>
     <string name="keep_cache_summary">Não excluir arquivos temporários após concluir o download</string>
     <string name="link_you_copied">Link que você copiou</string>
-    <string name="clear_temporary_files_summary">Excluir arquivos em cache de downloads como falhas, erros e cancelados</string>
+    <string name="clear_temporary_files_summary">Exclua arquivos em cache, infojsons e outras configurações temporárias</string>
     <string name="preferred_format_id">ID do formato preferido</string>
     <string name="redownload">Baixar novamente</string>
     <string name="cookies">Cookies</string>
@@ -255,7 +255,7 @@
     <string name="audio_only_item">Este item contém apenas formatos de áudio</string>
     <string name="custom_audio_quality">Usar qualidade de áudio personalizada</string>
     <string name="move_temporary_files">Mover arquivos temporários</string>
-    <string name="move_temporary_files_summary">Mover arquivos em cache para a pasta de downloads</string>
+    <string name="move_temporary_files_summary">Mover arquivos salvos em cache para a pasta de downloads</string>
     <string name="search_suggestions">Sugestões de busca</string>
     <string name="search_suggestions_summary">Obter sugestões de busca a partir do Google</string>
     <string name="preferred_format_id_summary">Selecionar formato com este ID no cartão de download</string>
@@ -508,4 +508,8 @@
     <string name="show_quick_download_share_menu">Mostrar opção para fazer download imediatamente no menu de compartilhamento</string>
     <string name="quick_download_title">Não buscar por dados</string>
     <string name="sponsorblock_hook">Trecho/Saudações</string>
+    <string name="packages">Pacotes</string>
+    <string name="not_installed">Não instalado</string>
+    <string name="bundled">Incluído no pacote</string>
+    <string name="use_app_language_for_metadata_summary">Se ativado, os campos de metadados seguirão o idioma do seu aplicativo e afetarão até mesmo a seleção do formato, dando preferência às versões dubladas em vez das originais</string>
 </resources>

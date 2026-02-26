@@ -507,4 +507,5 @@
     <string name="app_icon">Ikona aplikace</string>
     <string name="show_quick_download_share_menu">Zobrazit možnost okamžitého stažení v menu sdílení</string>
     <string name="quick_download_title">Nenačítat data</string>
+    <string name="sponsorblock_hook">Poutka/Pozdravy</string>
 </resources>

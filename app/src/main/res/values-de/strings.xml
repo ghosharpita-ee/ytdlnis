@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="remove_all">Alles entfernen</string>
-    <string name="ytdl_update_hint">Nützliche Tipps beim Herunterladen von Updates</string>
+    <string name="ytdl_update_hint">Nützlicher Tipp beim Herunterladen von Updates</string>
     <string name="remove_results">Ergebnisse löschen</string>
     <string name="download_all">Alles herunterladen</string>
     <string name="settings">Einstellungen</string>
@@ -24,7 +24,7 @@
     <string name="search_history_hint">Im Verlauf suchen</string>
     <string name="no_results">Keine Ergebnisse</string>
     <string name="more">Mehr</string>
-    <string name="update_app">Nach Aktualisierungen suchen</string>
+    <string name="update_app">Nach Updates suchen</string>
     <string name="version">Version</string>
     <string name="command_directory">Benutzerdefinierter Befehlsordner</string>
     <string name="couldnt_find_apk">Es konnte keine passende APK gefunden werden</string>
@@ -77,7 +77,7 @@
     <string name="save_thumb_summary">Das Vorschaubild im Download-Ordner speichern</string>
     <string name="audio_format">Audioformat</string>
     <string name="add_chapters">Kapitel in Videos</string>
-    <string name="embed_thumb_summary">Verwende das Vorschaubild als Cover-Art</string>
+    <string name="embed_thumb_summary">Verwende das Vorschaubilds als Cover-Art</string>
     <string name="save_thumb">Vorschaubild speichern</string>
     <string name="cancel_task">Vorgang abbrechen</string>
     <string name="you_are_going_to_delete">Löschen</string>
@@ -87,7 +87,7 @@
     <string name="Open_File">Datei öffnen</string>
     <string name="best_quality">Höchste Qualität</string>
     <string name="warning">Warnung</string>
-    <string name="sponsorblock_nonmusic">Bereiche ohne Musik und Off-Topic</string>
+    <string name="sponsorblock_nonmusic">Nicht-musikalische und themenfremde Abschnitte</string>
     <string name="new_template">Neue Vorlage</string>
     <string name="adjust_templates">Vorlagen anpassen</string>
     <string name="edit_selected">Ausgewähltes bearbeiten</string>
@@ -503,4 +503,5 @@
     <string name="preview_filename">Vorschau Dateiname</string>
     <string name="app_icon">App Icon</string>
     <string name="show_quick_download_share_menu">Download im Teilen-Menü anbieten</string>
+    <string name="quick_download_title">Daten nicht abrufen</string>
 </resources>

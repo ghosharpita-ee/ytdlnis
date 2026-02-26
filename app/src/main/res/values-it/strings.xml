@@ -263,7 +263,7 @@
     <string name="error_restarting_download">Errore durante il tentativo di riavviare il download</string>
     <string name="copy_log">Copia registro</string>
     <string name="errored">Errore</string>
-    <string name="clear_temporary_files_summary">Elimina i file memorizzati nella cache da download falliti/in errore/annullati</string>
+    <string name="clear_temporary_files_summary">Elimina i file memorizzati nella cache, infojson e altre configurazioni temporanee</string>
     <string name="file_size">Dimensione del file</string>
     <string name="clear_temporary_files">Cancella i file temporanei</string>
     <string name="cache_cleared">File temporanei cancellati</string>

@@ -159,7 +159,7 @@
     <string name="download_rescheduled_to">Завантаження перенесено до:</string>
     <string name="file_size">Розмір файлу</string>
     <string name="clear_temporary_files">Очистити тимчасові файли</string>
-    <string name="clear_temporary_files_summary">Видаліть кешовані файли із завантажень, які завершилися з помилкою/припиненням завантаження</string>
+    <string name="clear_temporary_files_summary">Видалити кешовані файли, infojson та інші тимчасові конфігурації</string>
     <string name="clear_cancelled">Очистити скасоване</string>
     <string name="split_by_chapters">Розподіл за розділами</string>
     <string name="restart">Перезавантажити</string>
@@ -264,7 +264,7 @@
     <string name="crop_thumb">Обрізати мініатюру</string>
     <string name="crop_thumb_summary">Обріжте ескіз у квадрат для завантаження аудіо</string>
     <string name="audio_only_item">Цей елемент містить лише аудіоформати</string>
-    <string name="move_temporary_files_summary">Перенесіть кешовані файли в папку завантажень</string>
+    <string name="move_temporary_files_summary">Перенесення кешованих завантажених файлів до папки завантажень</string>
     <string name="move_temporary_files">Перемістити тимчасові файли</string>
     <string name="custom_audio_quality">Вибір якості аудіо</string>
     <string name="retries">Повторні спроби</string>
@@ -507,4 +507,8 @@
     <string name="show_quick_download_share_menu">Показати швидке завантаження в меню спільного доступу</string>
     <string name="quick_download_title">Не отримувати дані</string>
     <string name="sponsorblock_hook">Спливаючі/Привітання</string>
+    <string name="packages">Пакети</string>
+    <string name="not_installed">Не встановлено</string>
+    <string name="bundled">У комплекті</string>
+    <string name="use_app_language_for_metadata_summary">Якщо ввімкнено, поля метаданих відповідатимуть мові вашої програми та навіть впливатимуть на вибір формату, надаючи перевагу дубльованим версіям замість оригіналу</string>
 </resources>

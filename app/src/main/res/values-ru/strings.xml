@@ -161,7 +161,7 @@
     <string name="error_restarting_download">Ошибка при возобновлении загрузки</string>
     <string name="preferred_download_type_summary">Вкладка по умолчанию, на которой откроется карточка загрузки</string>
     <string name="all_items_selected">Все выбранные элементы</string>
-    <string name="clear_temporary_files_summary">Удалите кэшированные файлы из загрузок, завершившихся с ошибкой/отменённых загрузок</string>
+    <string name="clear_temporary_files_summary">Удалить кэшированные файлы, infojson и другие временные конфигурации</string>
     <string name="cache_cleared">Временные файлы очищены</string>
     <string name="downloads_running_try_later">Загрузчик работает. Попробуйте позже</string>
     <string name="freespace">Свободное место</string>
@@ -265,7 +265,7 @@
     <string name="crop_thumb">Обрезать миниатюру</string>
     <string name="general">Общие</string>
     <string name="move_temporary_files">Переместить временные файлы</string>
-    <string name="move_temporary_files_summary">Переместите кэшированные файлы в папку загрузок</string>
+    <string name="move_temporary_files_summary">Перенос кэшированных загруженных файлов в папку загрузок</string>
     <string name="custom_audio_quality">Выбор качества аудио</string>
     <string name="fragment_retries">Повторные попытки фрагмента</string>
     <string name="retries">Повторные попытки</string>
@@ -507,4 +507,8 @@
     <string name="show_quick_download_share_menu">Показать немедленную загрузку в меню общего доступа</string>
     <string name="quick_download_title">Не получать данные</string>
     <string name="sponsorblock_hook">Всплывающие/Приветствия</string>
+    <string name="packages">Пакеты</string>
+    <string name="not_installed">Не установлено</string>
+    <string name="bundled">В комплекте</string>
+    <string name="use_app_language_for_metadata_summary">Если включено, поля метаданных будут соответствовать языку программы и даже влиять на выбор формата, предпочитая дублированные версии вместо оригинала</string>
 </resources>

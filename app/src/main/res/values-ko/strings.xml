@@ -106,7 +106,7 @@
     <string name="help_translate">번역 지원</string>
     <string name="access_all_directories_summary">기본적으로 제한된 디렉토리에서 앱 다운로드 허용</string>
     <string name="download_rescheduled_to">다운로드 일정 변경:</string>
-    <string name="clear_temporary_files_summary">다운로드시 충돌/오류/취소로 인해 생성된 캐시 파일을 삭제</string>
+    <string name="clear_temporary_files_summary">캐시 파일, infojson, 기타 임시 설정 삭제</string>
     <string name="cache_cleared">임시 파일 삭제됨</string>
     <string name="ytdl_version">yt-dlp 버전</string>
     <string name="freespace">여유 공간</string>
@@ -265,7 +265,7 @@
     <string name="general">일반</string>
     <string name="downloads_running_try_later">다운로드 작업자가 실행 중입니다. 나중에 다시 시도하세요</string>
     <string name="move_temporary_files">임시 파일 이동</string>
-    <string name="move_temporary_files_summary">캐시된 파일을 다운로드 폴더로 전송</string>
+    <string name="move_temporary_files_summary">캐시된 다운로드 파일을 다운로드 폴더로 전송</string>
     <string name="custom_audio_quality">사용자 지정 오디오 품질 사용</string>
     <string name="orange">주황색</string>
     <string name="save_for_later">나중에 다운로드를 저장하시겠습니까?</string>
@@ -507,4 +507,8 @@
     <string name="use_original_url_playlist_summary">JSON 덤프의 playlist_webpage_url 태그 대신 사용자가 지정한 재생목록 URL을 사용합니다</string>
     <string name="potoken_guide">인증\n-----------------------\n1. \'인증\'을 눌러 WebView에서 로그인 페이지를 엽니다.\n2. Google 계정으로 로그인합니다.\n3. 자동 번역 자막을 지원하는 아무 동영상이나 재생합니다.\n4. 자동 번역 자막을 켜고 잘 되는지 확인합니다.\n\t4.1 자동 번역 자막 기능이 동작하지 않으면, 자동 번역 자막을 지원하는 다른 동영상으로 이동해 4단계를 다시 반복해 봅니다.\n5. 확인을 누릅니다.\n\n인증 없음\n-----------------------\n1. \'인증 없음\'을 누릅니다.\n2. 아무 YouTube 동영상 URL이나 입력합니다\n3. 동영상을 불러올 때까지 기다렸다가 최소 3초 이상 동영상을 재생합니다.\n4. 확인을 누릅니다.</string>
     <string name="quick_download_title">데이터를 가져오지 않음</string>
+    <string name="packages">패키지</string>
+    <string name="not_installed">미설치</string>
+    <string name="use_app_language_for_metadata_summary">켜져 있다면, 메타데이터가 앱 언어를 따라가며 원본 대신 더빙 버전을 우선하는 등 파일 형식 선택에도 영향을 미칩니다</string>
+    <string name="bundled">묶임</string>
 </resources>

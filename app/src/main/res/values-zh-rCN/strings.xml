@@ -156,7 +156,7 @@
     <string name="socks5_proxy">Socks5 代理网址</string>
     <string name="retries">任务重试次数</string>
     <string name="move_temporary_files">移动临时文件</string>
-    <string name="move_temporary_files_summary">将缓存文件移动到下载文件夹</string>
+    <string name="move_temporary_files_summary">将已缓存下载文件转移到下载文件夹</string>
     <string name="embed_metadata_summary">解析并嵌入元数据到音频文件</string>
     <string name="embed_metadata">嵌入元数据</string>
     <string name="force_keyframes">强制剪辑关键帧</string>
@@ -213,7 +213,7 @@
     <string name="file_size">文件大小</string>
     <string name="help_translate">帮助翻译</string>
     <string name="download_card_summary">下载前修改那个项目的设置，停用此选项会立即启动下载</string>
-    <string name="clear_temporary_files_summary">删除崩溃/错误/取消下载的缓存文件</string>
+    <string name="clear_temporary_files_summary">删除缓存文件、infosjsons 和其他临时配置</string>
     <string name="cache_cleared">临时文件已清除</string>
     <string name="ytdl_version">yt-dlp 版本</string>
     <string name="link_you_copied">您复制的链接</string>
@@ -327,7 +327,7 @@
     <string name="source">源</string>
     <string name="cut_unavailable_please_update_item">你需要更新项目数据才能使用剪切功能</string>
     <string name="changed_path_for_everyone_to">已将每个项目的下载路径更改至：</string>
-    <string name="dismiss">放弃</string>
+    <string name="dismiss">取消</string>
     <string name="all">全部</string>
     <string name="generic">普通</string>
     <string name="multiple_download_card">多个下载卡片</string>
@@ -421,7 +421,7 @@
     <string name="items">项目</string>
     <string name="other_youtube_extractor_args">其他 YouTube 提取器变量</string>
     <string name="socket_timeout">Socket 超时</string>
-    <string name="socket_timeout_description">放弃前等待多久，单位为秒</string>
+    <string name="socket_timeout_description">再等一下，不要放弃</string>
     <string name="advanced">高级</string>
     <string name="pause_all">全部暂停</string>
     <string name="resume_all">全部恢复</string>
@@ -507,4 +507,8 @@
     <string name="show_quick_download_share_menu">在分享菜单中显示立即下载选项</string>
     <string name="quick_download_title">不获取数据</string>
     <string name="sponsorblock_hook">噱头/问候</string>
+    <string name="packages">包</string>
+    <string name="not_installed">未安装</string>
+    <string name="bundled">捆绑</string>
+    <string name="use_app_language_for_metadata_summary">如启用，元数据字段会和应用程序语言保持一致，并且影响格式选择（首选配音版而不是原始声音版本）</string>
 </resources>

@@ -163,7 +163,7 @@
     <string name="restart">Mulai Ulang</string>
     <string name="download_rescheduled_to">Unduhan dijadwalkan ulang pada:</string>
     <string name="file_size">Ukuran berkas</string>
-    <string name="clear_temporary_files_summary">Hapus berkas singgahan (cache) dari unduhan yang mogok/galat/dibatalkan</string>
+    <string name="clear_temporary_files_summary">Hapus berkas cache, infojsons dan konfigurasi sementara lainnya</string>
     <string name="cache_cleared">Berkas sementara dikosongkan</string>
     <string name="freespace">Kosongkan penyimpanan</string>
     <string name="command_download_notification_channel_description">Notifikasi yang memperlihatkan kemajuan pengunduhan menggunakan perintah yt-dlp</string>
@@ -264,7 +264,7 @@
     <string name="swipe_gestures">Gerakan usap</string>
     <string name="general">Umum</string>
     <string name="misc">Lain-lain</string>
-    <string name="move_temporary_files_summary">Transfer berkas singgahan (cache) ke folder unduhan</string>
+    <string name="move_temporary_files_summary">Tranfer berkas unduhan yang disimpan dalam cache ke folder unduhan</string>
     <string name="move_temporary_files">Pindahkan berkas sementara</string>
     <string name="custom_audio_quality">Gunakan kualitas audio khusus</string>
     <string name="retries">Percobaan Kembali</string>
@@ -507,4 +507,8 @@
     <string name="show_quick_download_share_menu">Tampilkan pilihan untuk mengunduh secara langsung di menu bagikan</string>
     <string name="quick_download_title">Jangan mengambil data</string>
     <string name="sponsorblock_hook">Pengantar/Sapaan</string>
+    <string name="packages">Paket</string>
+    <string name="not_installed">Tidak terpasang</string>
+    <string name="bundled">Dibundel</string>
+    <string name="use_app_language_for_metadata_summary">Jika diaktifkan, kolom metadata akan mengikuti bahasa aplikasi Anda dan bahkan mempengaruhi pemilihan format dengan lebih memilih versi dubbing daripada versi asli</string>
 </resources>
